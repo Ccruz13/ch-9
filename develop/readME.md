@@ -3,7 +3,7 @@
     chapter 9
 
     #Description
-    command line readme
+    command line to create a read me
 
     #Table of Content
     *[Installation](#Installation)
@@ -17,16 +17,16 @@
     undefined
 
     # Usage
-    read me
+    create a read me
 
     # License
-    Apache 2.0,Eclipse,MIT,Mozilla
+    MIT,Mozilla
 
     # Contribution
     charlie
 
     # Tests
-    follow intructions
+    no testing
 
     # Contactn Information
     #GitHub Username: ccruz13
