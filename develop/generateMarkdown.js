@@ -1,16 +1,13 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
-
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `
-    # Project Title
+    ## Project Title
     ${data.title}
 
-    #Description
+    ## Description
     ${data.description}
 
-    #Table of Content
+    ## Table of Content
     *[Installation](#Installation)
     *[Usage](#Usage)
     *[License](#License)
@@ -18,24 +15,24 @@ function generateMarkdown(data) {
     *[Tests](#Tests)
     *[Questions](#Contact-Information)
 
-    # Installation
+    ## Installation
     ${data.installation}
 
-    # Usage
+    ## Usage
     ${data.usage}
 
-    # License
+    ## License
     ${data.license}
 
-    # Contribution
+    ## Contribution
     ${data.contribution}
 
-    # Tests
+    ## Tests
     ${data.tests}
 
-    # Contactn Information
-    #GitHub Username: ${data.userName}
-    #Contact Email: ${data.userEmail}
+    ## Contactn Information
+    * GitHub Username: ${data.userName}
+    * Contact Email: ${data.userEmail}
 
 `;
 }

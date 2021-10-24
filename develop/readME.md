@@ -1,11 +1,11 @@
 
-    # Project Title
-    chapter 9
+    ## Project Title
+    Chapter 9 Readme
 
-    #Description
-    command line to create a read me
+    ## Description
+    create a readme by using the command line in your terminal
 
-    #Table of Content
+    ## Table of Content
     *[Installation](#Installation)
     *[Usage](#Usage)
     *[License](#License)
@@ -13,22 +13,22 @@
     *[Tests](#Tests)
     *[Questions](#Contact-Information)
 
-    # Installatoin
-    undefined
+    ## Installation
+    download the inquirer package and then clone the code onto your computer. Then you should be able to run the file by using your terminal. Then follow all the steps that are prompted and at the end you should have a new readme file in your repository with all the data that you entered in the terminal. 
 
-    # Usage
-    create a read me
+    ## Usage
+    to generate a read me by using the command line
 
-    # License
+    ## License
     MIT,Mozilla
 
-    # Contribution
-    charlie
+    ## Contribution
+    Charlie
 
-    # Tests
-    no testing
+    ## Tests
+    Follow the instructions
 
-    # Contactn Information
-    #GitHub Username: ccruz13
-    #Contact Email: charlie@gmail.com
+    ## Contactn Information
+    * GitHub Username: Ccruz13
+    * Contact Email: Charlie13cruz@icloud.com
 

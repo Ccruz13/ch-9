@@ -1,34 +1,13 @@
+## Project Title
+    Chapter 9
 
-    # Project Title
-    chapter 9
+## Purpose
+    To generate a README.md by using the command line.
 
-    #Description
-    command line readme
+## Built With
+    Javascript, Inquirer, and Node.js
 
-    #Table of Content
-    *[Installation](#Installation)
-    *[Usage](#Usage)
-    *[License](#License)
-    *[Contribution](#Contribution)
-    *[Tests](#Tests)
-    *[Questions](#Contact-Information)
+## Video
+    ![Video](https://drive.google.com/file/d/1YtA2Qj8ISqzm7k1ZODte-njfz_dlu1w2/view)
 
-    # Installatoin
-    undefined
-
-    # Usage
-    read me
-
-    # License
-    Apache 2.0,Eclipse,MIT,Mozilla
-
-    # Contribution
-    charlie
-
-    # Tests
-    follow intructions
-
-    # Contactn Information
-    #GitHub Username: ccruz13
-    #Contact Email: charlie@gmail.com
-
+Made by Charlie Cruz
