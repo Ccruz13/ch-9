@@ -7,10 +7,15 @@ create a readme by using the command line in your terminal
 
 ## Table of Content
 *[Installation](#Installation)
+
 *[Usage](#Usage)
+
 *[License](#License)
+
 *[Contribution](#Contribution)
+
 *[Tests](#Tests)
+
 *[Questions](#Contact-Information)
 
 ## Installation
